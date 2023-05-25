@@ -51,3 +51,7 @@ Happy docking :)
 有任何问题，可在GitHub网站或公众号联系我们。(https://github.com/DUTchecheche/BatchVinaGUI-v2.2.0/issues)
 
 祝科研顺利 :)
+
+# Citation
+
+Xinhao Che, 
