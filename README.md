@@ -1,4 +1,4 @@
-# BatchVinaGUI v2.2.0
+# BatchVinaGUI
 
 Required system: Windows10/11
 
