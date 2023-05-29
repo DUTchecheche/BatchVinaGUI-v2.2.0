@@ -1,0 +1,2 @@
+language:Chinese
+font:14
