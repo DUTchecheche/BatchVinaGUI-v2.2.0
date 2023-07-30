@@ -1,5 +1,5 @@
 If you use BatchVinaGUI in your work, please cite:
-[1] 
+[1] Che X. H., Liu Q. L., Zhang L. An accurate and universal protein-small molecule batch docking solution using Autodock Vina. Results in Engineering, 2023.
 
 The following references should also be cited, which depends on the software functions and modules used in your work.
 
@@ -15,9 +15,9 @@ Pre-processing and format conversion of receptors, AutodockTools4.2.6:
 The PubChem database：
 [5] Kim S, Chen J, Cheng T, et al. PubChem in 2021: new data content and improved web interfaces. Nucleic Acids Res. 2021;49(D1):D1388–D1395.
 
-Pre-processing and format conversion of ligands, OpenBabel3.1.1:
+Pre-processing and format conversion of ligands, OpenBabel2.4.1:
 [6]O'Boyle, N. M.;  Banck, M.;  James, C. A.;  Morley, C.;  Vandermeersch, T.; Hutchison, G. R., Open Babel: An open chemical toolbox. J. Cheminformatics 2011, 3, 14.
-[7]The Open Babel Package, version 3.1.1 http://openbabel.org (accessed May 2020).
+[7]The Open Babel Package, version 2.4.1 http://openbabel.org.
 
 The Blind docking method：
 [8] Hetenyi, C.; van der Spoel, D., Efficient docking of peptides to proteins without prior knowledge of the binding site. Protein Sci 2002, 11 (7), 1729-37.
