@@ -54,4 +54,4 @@ Happy docking :)
 
 # Citation
 
-[1] Che X. H., Liu Q. L., Zhang L. An accurate and universal protein-small molecule batch docking solution using Autodock Vina. Results in Engineering, 2023.
+[1] Che X. H., Liu Q. L., Zhang L. An accurate and universal protein-small molecule batch docking solution using Autodock Vina. Results in Engineering, 2023, 19: 101335.
