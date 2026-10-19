@@ -1,5 +1,15 @@
 # BatchVinaGUI
 
+**BatchVinaGUI v3 is open for free public beta. See our latest repository:https://github.com/DUTchecheche/BatchVinaGUI-v3**
+
+**BatchVinaGUI v2.2.0 is unmaintained but remains functional.**
+
+**BatchVinaGUI v3版本现已免费开放公测，请访问我们最新的存储库：https://github.com/DUTchecheche/BatchVinaGUI-v3**
+
+**BatchVinaGUI v2.2.0版本将不再维护，但您仍可继续使用。**
+
+----
+
 Required system: Windows10/11
 
 Notice: The directory where the software is located and the directory required during use should not contain any spaces or special characters!
